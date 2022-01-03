@@ -12,6 +12,7 @@ namespace gitproba
         {
             Console.WriteLine("Helló mindenki!");
             Console.WriteLine("ez egy új sor");
+            Console.WriteLine("ez még egy új sor");
         }
     }
 }
