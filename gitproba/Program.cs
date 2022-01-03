@@ -11,6 +11,7 @@ namespace gitproba
         static void Main(string[] args)
         {
             Console.WriteLine("Helló mindenki!");
+            Console.WriteLine("ez egy új sor");
         }
     }
 }
